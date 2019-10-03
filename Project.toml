@@ -1,0 +1,4 @@
+name = "BoseGases"
+uuid = "22c48518-e5a0-11e9-1da5-033e90fc83b5"
+authors = ["Rodney Polkinghorne <rpolkinghorne@swin.edu.au>"]
+version = "0.1.0"
